@@ -15,7 +15,7 @@
 |:---|:---|
 | **Title** | Convolutional Neural Networks on Dedicated Hardware: A Comprehensive Survey of VLSI, FPGA and ASIC Implementations Across Real World Application Domains |
 | **Status** | Manuscript under review |
-| **Type** | Comprehensive Survey / Research Article |
+| **Type** | Review Article |
 
 
 ## 👥 Authors
